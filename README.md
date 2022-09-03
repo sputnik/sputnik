@@ -1,5 +1,7 @@
-### Hi there 👋
-
+### Hi there 👋 I'm Tyler
+- Aerospace Engineering Student
+- Com Sci Minor
+- Currently working on a Vulkan rendering engine for Wayland
 <!--
 **sputnik/sputnik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
